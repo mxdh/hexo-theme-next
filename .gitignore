@@ -17,4 +17,10 @@ source/lib/font-awesome/scss/
 !source/lib/jquery/
 
 !source/lib/velocity/
+
+#my
 _config.yml
+!source/lib/bookmark/
+!source/lib/canvas-nest
+!source/lib/pace
+!source/lib/quicklink
