@@ -22,4 +22,5 @@ source/lib/font-awesome/scss/
 !source/lib/bookmark/
 !source/lib/canvas-nest
 !source/lib/pace
-!source/lib/quicklink
+!source/lib/quicklin
+!source/lib/pangu

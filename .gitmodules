@@ -10,3 +10,6 @@
 [submodule "source/lib/quicklink"]
 	path = source/lib/quicklink
 	url = https://github.com/theme-next/theme-next-quicklink.git
+[submodule "source/lib/pangu"]
+	path = source/lib/pangu
+	url = https://github.com/theme-next/theme-next-pangu.git
