@@ -676,7 +676,7 @@ gitalk:
   github_id: mxdh # Github repo owner
   repo: mxdh.github.io # Repository name to store issues
   client_id: f5cf269667c6072901b2 # Github Application Client ID
-  client_secret: # Github Application Client Secret
+  client_secret: d10ffc357c80226a5f1ad2cb0e592fd09444705d # Github Application Client Secret
   admin_user: mxdh # GitHub repo owner and collaborators, only these guys can initialize github issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
