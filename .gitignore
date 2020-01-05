@@ -17,3 +17,10 @@ source/lib/font-awesome/scss/
 !source/lib/anime.min.js
 
 !source/lib/velocity/
+
+#my
+!source/lib/bookmark/
+!source/lib/canvas-nest
+!source/lib/pace
+!source/lib/quicklin
+!source/lib/pangu
