@@ -1,15 +1,6 @@
-[submodule "source/lib/bookmark"]
-	path = source/lib/bookmark
-	url = https://github.com/theme-next/theme-next-bookmark.git
-[submodule "source/lib/canvas-nest"]
-	path = source/lib/canvas-nest
-	url = https://github.com/theme-next/theme-next-canvas-nest
 [submodule "source/lib/pace"]
 	path = source/lib/pace
 	url = https://github.com/theme-next/theme-next-pace
-[submodule "source/lib/quicklink"]
-	path = source/lib/quicklink
-	url = https://github.com/theme-next/theme-next-quicklink.git
-[submodule "source/lib/pangu"]
-	path = source/lib/pangu
-	url = https://github.com/vinta/pangu.js.git
+[submodule "source/lib/theme-next-three"]
+	path = source/lib/theme-next-three
+	url = https://github.com/theme-next/theme-next-three.git
