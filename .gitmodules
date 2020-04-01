@@ -1,6 +1,6 @@
 [submodule "source/lib/pace"]
 	path = source/lib/pace
 	url = https://github.com/theme-next/theme-next-pace
-[submodule "source/lib/theme-next-three"]
-	path = source/lib/theme-next-three
+[submodule "source/lib/three"]
+	path = source/lib/three
 	url = https://github.com/theme-next/theme-next-three.git

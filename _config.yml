@@ -386,7 +386,7 @@ reading_progress:
 
 # Bookmark Support
 bookmark:
-  enable: false
+  enable: true
   # Customize the color of the bookmark.
   color: "#222"
   # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
@@ -854,13 +854,12 @@ pace:
   # Themes list:
   # big-counter | bounce | barber-shop | center-atom | center-circle | center-radar | center-simple
   # corner-indicator | fill-left | flat-top | flash | loading-bar | mac-osx | material | minimal
-  theme: minimal
-
+  theme: flash
 # JavaScript 3D library.
 # Dependencies: https://github.com/theme-next/theme-next-three
 three:
-  enable: false
-  three_waves: false
+  enable: true
+  three_waves: true
   canvas_lines: false
   canvas_sphere: false
 
@@ -981,15 +980,15 @@ vendors:
   # pace_css: //cdn.jsdelivr.net/npm/pace-js@1/themes/blue/pace-theme-minimal.css
   # pace_css: //cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/blue/pace-theme-minimal.min.css
   pace: https://cdn.jsdelivr.net/npm/pace-js@1/pace.min.js
-  pace_css:
+  pace_css: https://cdn.jsdelivr.net/npm/pace-js@1/themes/blue/pace-theme-flash.css
 
   # Internal version: 1.0.0
   # three: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three.min.js
   # three_waves: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three-waves.min.js
   # canvas_lines: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/canvas_lines.min.js
   # canvas_sphere: //cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/canvas_sphere.min.js
-  three:
-  three_waves:
+  three: https://cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three.min.js
+  three_waves: https//cdn.jsdelivr.net/gh/theme-next/theme-next-three@1/three-waves.min.js
   canvas_lines:
   canvas_sphere:
 
